@@ -1,1 +1,2 @@
-# HBase_tesst1
+# HBase的连接基本操作
+HBase的连接基本操作（增、删、改、查 等）
